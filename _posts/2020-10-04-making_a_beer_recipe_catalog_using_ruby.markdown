@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Making a Beer Recipe Catalog using Ruby"
-date:       2020-10-04 16:02:06 +0000
+date:       2020-10-04 12:02:06 -0400
 permalink:  making_a_beer_recipe_catalog_using_ruby
 ---
 
